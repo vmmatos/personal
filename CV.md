@@ -1,5 +1,5 @@
 # Vítor Matos 
-**Senior Software Engineer (Frontend Focus) | Scalable E-commerce Systems | Architecture-Oriented**
+**Senior Software Engineer | Frontend Architecture & Distributed Systems**
 
 📍 Baixa da Banheira, Portugal 
 📧 vm.matos@gmail.com
@@ -37,10 +37,10 @@ Experienced in designing modular and scalable frontend architectures, contributi
 **Senior Frontend Engineer** 
 _Aug 2019 – Nov 2025_
 
-- Contributed to the architecture and development of enterprise-grade retail and internal systems.
+- Participated in architectural design decisions for enterprise-grade retail and internal systems.
 - Designed and implemented scalable frontend architectures using Vue 3, Vite, and modular design patterns.
 - Contributed to distributed system integrations using Google Cloud Pub/Sub (event-driven architecture).
-- Developed performance-critical in-store self-checkout systems (PPC), focusing on reliability and operational resilience.
+- Developed performance-critical in-store self-checkout systems (PPC) used in all physical retail stores, handling real-time transactional flows and improving operational reliability.
 - Participated in architectural discussions around service communication, deployment strategies, and observability.
 - Improved monitoring and production visibility using Datadog.
 - Worked in containerized environments using Docker and Kubernetes.
@@ -55,7 +55,7 @@ _Aug 2019 – Nov 2025_
 **Frontend Team Lead** 
 _Nov 2016 – Jul 2019_
 
-- Led frontend initiatives for one of Portugal’s largest e-commerce platforms.
+- Led frontend initiatives during major e-commerce platform redesign and checkout optimization.
 - Contributed to major redesign efforts and checkout flow improvements.
 - Coordinated frontend development across teams in an agile environment.
 - Worked closely with backend services (Node.js, Golang) in a distributed system context.
