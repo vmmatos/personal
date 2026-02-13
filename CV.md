@@ -13,7 +13,7 @@
 
 Senior Software Engineer with 13+ years of experience delivering high-scale e-commerce and retail systems. Strong frontend expertise in TypeScript and Vue.js, combined with backend and cloud exposure (Node.js, Golang, Google Cloud Platform).
 
-Experienced in designing modular and scalable frontend architectures, contributing to distributed systems decisions, and working on performance-critical transactional flows such as checkout and in-store systems. Comfortable collaborating on architectural trade-offs, observability strategies, and system reliability within enterprise environments.
+Experienced in designing modular and scalable frontend architectures, contributing to distributed systems decisions, and working on performance-critical transactional flows such as checkout and in-store systems. Regularly collaborating on architectural trade-offs, observability strategies, and system reliability within enterprise environments.
 
 ---
 
@@ -55,7 +55,7 @@ _Aug 2019 – Nov 2025_
 **Frontend Team Lead** 
 _Nov 2016 – Jul 2019_
 
-- Led frontend initiatives during major e-commerce platform redesign and checkout optimization.
+- Led frontend initiatives during major e-commerce platform redesign and checkout optimization for a high-traffic national retail platform.
 - Contributed to major redesign efforts and checkout flow improvements.
 - Coordinated frontend development across teams in an agile environment.
 - Worked closely with backend services (Node.js, Golang) in a distributed system context.
